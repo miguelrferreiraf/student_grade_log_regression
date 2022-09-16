@@ -5,3 +5,5 @@
 Hello, folks 👋.
 
 In this project I'm gonna show that not all machine learning is neural network. We can obtain great results with less sophisticated models, that we learn as we begin to study machine learning. Here, you are going to be introduced to Decision Trees, a very simple model.
+
+Some important things about this project is the data cleaning project, that involve even very useful tricks like changing words and text into numbers.
