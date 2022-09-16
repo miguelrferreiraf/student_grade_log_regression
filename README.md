@@ -1,4 +1,4 @@
-# :nerd_face: Student Grade with logistics regression <a><img src=https://www.emoji.com/wp-content/uploads/filebase/icons/emoji-icon-glossy-07-10-objects-office-notebook-variant-tidy-72dpi-forPersonalUseOnly.png width=2%></a>
+# :nerd_face: Student Grade with logistics regression <a><img src=https://www.emoji.com/wp-content/uploads/filebase/icons/emoji-icon-glossy-07-10-objects-office-notebook-variant-tidy-72dpi-forPersonalUseOnly.png width=3%></a>
 
 ## This project show how we can use less sophisticated models to obtain efficient predictions using Logistic Regression.
 
